@@ -1,0 +1,10 @@
+
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ïÅÂúÿÿÿÿ
+k	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ïÅÂúÿÿÿÿ
+g
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÄÓß
+T
+java:S1155[">Use isEmpty() to check whether the collection is empty or not.(Ô·ŠË
+9
+java:S2119^"Save and re-use this "Random".(»˜Ñ˜úÿÿÿÿ
+s	java:S131y"YComplete cases by adding the missing enum constants or add a default case to this switch.(øø†Üúÿÿÿÿ
