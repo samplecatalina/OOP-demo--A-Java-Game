@@ -1,5 +1,7 @@
 # OOP Demo: A Java Game 🎮
 
+*Completed in May 2022*
+
 Welcome to my Java Game project! This project is a demonstration of Object-Oriented Programming (OOP) principles, featuring an interactive UI and real-time user control. It's a great example of my coding skills and my understanding of OOP concepts.
 
 ## 🌟 Features
